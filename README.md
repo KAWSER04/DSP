@@ -1,5 +1,5 @@
 # DSP
-##question:  
+##question1:  
 `x(t)=5*sin(2 * pi * 1000*t+pi/2) do the following`  
 **1) Find x1(n) when fs=2000 hz,n=0,1,....  
 2) Find x2(n) when fs=750 hz,n=0,1,....7  
